@@ -8,7 +8,7 @@
   }
   .hero {
     padding-top: 20%;
-    background-image: url(/img/hero1200.webp);
+    background-image: url(./img/hero1200.webp);
   }
   .hero__title {
     margin-bottom: 30px;
